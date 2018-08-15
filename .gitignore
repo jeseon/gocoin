@@ -1,0 +1,6 @@
+.idea
+vendor
+
+*.db
+*.db.lock
+*.exe
